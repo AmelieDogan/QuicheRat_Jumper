@@ -4,5 +4,10 @@ Incarnez un petit rat en quête de délicieuses quiches ! Faites attention aux c
 
 ## Description des commandes
 
-{\displaystyle \leftarrow } (flèches de gauche) : se déplacer à gauche
-{\displaystyle \rightarrow } (flèches de droite) : se déplacer à droite
+← (flèches de gauche) : se déplacer à gauche.
+
+→ (flèches de droite) : se déplacer à droite.
+
+Barre d'espace pour faire une double saut (rechargement des doubles sauts en attrapant des gobelets de café Caron).
+
+Barre d'espace pour faire une nouvelle partie.
