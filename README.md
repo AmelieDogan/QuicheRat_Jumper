@@ -2,6 +2,38 @@
 
 Incarnez un petit rat en quête de délicieuses quiches ! Faites attention aux chartes médiévales qui pourraient vous être fatales... En cas de fatigue, le café Caron vous donnera la force de sauter.
 
+## Installation
+
+Créez un environnement virtuel pour le jeu : 
+Dabs votre terminal, allez à l’emplacement souhaité pour créer votre environnement virtuel puis tapez : 
+
+‘’’ bash
+	python3 -m venv jeux_python
+	‘’’
+
+Un dossier jeux_python va être créer
+
+Pour l’activer : 
+
+‘’’ bash
+	source jeux_python/bin/activate/
+	‘’’
+
+Pour pouvoir jouer, installez pygame dans l’environnement virtuel : 
+
+‘’’ bash
+	pip3 install pygame
+	‘’’
+
+Récupez l’ensemble des fichiers dans un dossier. Si votre environnement virtuel jeux_python est activé, alors il vous suffit d’aller dans votre dossier avec le jeu et écrire : 
+
+
+‘’’ bash
+	python3 QuicheRat_jumper.py
+	‘’’
+Le jeu se lance !
+
+
 ## Description des commandes
 
 Mangez un maximum de quiches en atteignant les plateformes sur lesquelles sont posées ces mets délicieux grâce aux commandes suivantes :
