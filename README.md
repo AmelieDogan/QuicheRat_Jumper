@@ -7,30 +7,30 @@ Incarnez un petit rat en quête de délicieuses quiches ! Faites attention aux c
 Créez un environnement virtuel pour le jeu : 
 Dabs votre terminal, allez à l’emplacement souhaité pour créer votre environnement virtuel puis tapez : 
 
-‘’’ bash
+```bash
 	python3 -m venv jeux_python
-	‘’’
+	```
 
 Un dossier jeux_python va être créer
 
 Pour l’activer : 
 
-‘’’ bash
+```bash
 	source jeux_python/bin/activate/
-	‘’’
+	```
 
 Pour pouvoir jouer, installez pygame dans l’environnement virtuel : 
 
-‘’’ bash
+```bash
 	pip3 install pygame
-	‘’’
+	```
 
 Récupez l’ensemble des fichiers dans un dossier. Si votre environnement virtuel jeux_python est activé, alors il vous suffit d’aller dans votre dossier avec le jeu et écrire : 
 
 
-‘’’ bash
+```bash
 	python3 QuicheRat_jumper.py
-	‘’’
+	```
 Le jeu se lance !
 
 
