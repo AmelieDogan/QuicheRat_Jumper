@@ -17,7 +17,7 @@ Un dossier jeux_python va être créé
 Pour l’activer : 
 
 ```bash
-	source jeux_python/bin/activate/
+	source jeux_python/bin/activate
 ```
 
 Pour pouvoir jouer, installez pygame dans l’environnement virtuel : 
