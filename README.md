@@ -9,7 +9,7 @@ Dabs votre terminal, allez à l’emplacement souhaité pour créer votre enviro
 
 ```bash
 	python3 -m venv jeux_python
-	```
+```
 
 Un dossier jeux_python va être créer
 
@@ -17,20 +17,21 @@ Pour l’activer :
 
 ```bash
 	source jeux_python/bin/activate/
-	```
+```
 
 Pour pouvoir jouer, installez pygame dans l’environnement virtuel : 
 
 ```bash
 	pip3 install pygame
-	```
+```
 
 Récupez l’ensemble des fichiers dans un dossier. Si votre environnement virtuel jeux_python est activé, alors il vous suffit d’aller dans votre dossier avec le jeu et écrire : 
 
 
 ```bash
 	python3 QuicheRat_jumper.py
-	```
+```
+
 Le jeu se lance !
 
 
